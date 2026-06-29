@@ -1,0 +1,15 @@
+# Dataset (muito grande para o repositório, baixar do Kaggle)
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
