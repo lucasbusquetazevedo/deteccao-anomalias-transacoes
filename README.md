@@ -133,7 +133,7 @@ Este histograma mostra a pontuação de anomalia atribuída pelo modelo a cada t
 ### Passo 1 — Clonar o repositório
 
 ```bash
-git clone https://github.com/lucasbusquetazevedo/deteccao-anomalias-transacoes.git
+git clone https://github.com/seu-usuario/deteccao-anomalias-transacoes.git
 cd deteccao-anomalias-transacoes
 ```
 
